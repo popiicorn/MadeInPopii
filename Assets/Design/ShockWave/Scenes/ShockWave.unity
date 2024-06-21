@@ -1600,5 +1600,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EF_ShockWave
       objectReference: {fileID: 0}
+    - target: {fileID: 2576599461657330534, guid: e05f87961c06c78489d23c7da0a364e8,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e05f87961c06c78489d23c7da0a364e8, type: 3}
