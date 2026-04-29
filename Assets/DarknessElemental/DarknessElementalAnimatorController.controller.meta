@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbfceb2f95e4b0946b3c602ca142968d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318114
+  packageName: Darkness elemental
+  packageVersion: 1.0
+  assetPath: Assets/DarknessElemental/DarknessElementalAnimatorController.controller
+  uploadId: 751200
