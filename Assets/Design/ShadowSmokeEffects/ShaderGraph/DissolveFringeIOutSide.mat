@@ -47,7 +47,7 @@ Material:
     - _RangeScale: 0.5
     - _WaveIntensity: 0.01
     m_Colors:
-    - _Gradation: {r: -0.5, g: 0.8, b: 0, a: 0}
+    - _Gradation: {r: 1, g: -1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &3767138192634757766
